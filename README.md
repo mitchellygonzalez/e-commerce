@@ -13,10 +13,10 @@
 * [Questions](#questions)
  
 ## Description
-This e-commerce app serves to allow users to write notes and save them. 
+E-commerce platforms provide a suit of services to businesses of all sizes. Due to the prevalence of thes platforms, developers should understand the fundamental architecture of e-commerce sites. In this project, I have built the back end for an e-commmerce site using a working Express.js API and configuring it to use Sequelize to interact with a MySQL database. I have submitted a link to a video below with a walkthrough of the functionality of the backend provided. The video demonstrates different http methods --such as the GET, PUT, POST, and DELETE methods-- being tested in Insomnia.
 
-Here is the link to the video: 
-screencastify link: https://watch.screencastify.com/v/vzArJxGrHvwnLY7RrSv3
+
+screencastify video link: https://watch.screencastify.com/v/vzArJxGrHvwnLY7RrSv3
 
 ## User Story
 AS A manager at an internet retail company
